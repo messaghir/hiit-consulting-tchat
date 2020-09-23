@@ -7,7 +7,7 @@
             <div class="type_msg">
                 <div class="input_msg_write">
                     <form method="post" action="/discussion/store" class="needs-validation message_box_write" novalidate>
-                        <input name="message" type="text" class="write_msg" placeholder="Ecrire votre message"/>
+                        <input name="message" type="text" class="write_msg" placeholder="Write your message and hit enter"/>
                         <button class="msg_send_btn" type="submit">
                             <i class="fa fa-paper-plane-o" aria-hidden="true"></i>
                         </button>
